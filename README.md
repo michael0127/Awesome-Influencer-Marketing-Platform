@@ -34,6 +34,7 @@ Below is a **curated list** 📋 of notable platforms and their open-source equi
 | **[ShopMy](https://shopmy.us/)** | Creator commerce, affiliate, and social-suite influencer solutions. | Custom / Enterprise | Free for creators | ~$15M Valuation |
 | **[Influencity](https://influencity.com/)** | Strong discovery, audience verification, and analytics tools. | Starts at ~$168/month | No free tier (7-day trial) | ~$10M Valuation |
 | **[Creator.co](https://www.creator.co/)** | Creator commerce, affiliate, and social-suite influencer solutions. | Starts at ~$395/month | No free tier | ~$5M Valuation |
+| **[IGDataHub](https://igdatahub.com/)** | Instagram creator search, public profile stats, follower growth charts and comparison. | Paid data exports | Free profile lookup and report pages | Not disclosed |
 
 ## 🔓 Open-Source Software
 
